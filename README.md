@@ -7,6 +7,6 @@
 📌 **Currently Learning:** TypeScript, Next.js  
 
 🌱 Exploring: Advanced Frontend Performance & Testing  
-## 📱 شبکه‌های اجتماعی من:
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajedeh_th)
 
