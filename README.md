@@ -47,15 +47,6 @@ Also: **Zustand** · **React Query (TanStack Query)**
 
 ---
 
-### 🚀 Featured work
-
-| Project | Description |
-| --- | --- |
-| 🌐 [Portfolio](https://YOUR-PORTFOLIO-URL) | Bilingual (EN / FA) personal site built with Next.js & TypeScript |
-| 🥗 FreshFood | Food ordering UI with a responsive, mobile-first design |
-| 🏢 Company Website | Marketing site focused on performance and clean layout |
-
----
 
 <p align="center">
   <i>✨ Clean code, smooth interactions, and continuous learning.</i>
