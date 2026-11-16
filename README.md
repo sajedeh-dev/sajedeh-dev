@@ -9,15 +9,13 @@
 <p align="center">
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/sajedeh-taheri-63974627b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sajedeh.taheri79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open_to_work-2ea44f?style=flat-square" alt="Open to work"/>
 </p>
 
 ---
 
 ### 👩‍💻 About me
 
-Frontend developer with a **Computer Engineering** background (B.Sc., Persian Gulf University), based in **Shiraz, Iran**.
+Frontend developer with a **Computer Engineering** background .
 
 My work goes beyond implementing screens. I work with real API contracts, application state, authentication flows and product requirements, and turn designs and specs into interfaces that are structured, responsive and maintainable.
 
